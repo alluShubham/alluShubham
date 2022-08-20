@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **Java backend, SBMS, Hibernet**
 
-- 👨‍💻 All of my projects are available at [https://allushubhamportfolio.netlify.app/](https://allushubhamportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://allushubhamportfolio.netlify.app/)
 
 - 💬 Ask me about **JAVA, DBMS(mysql)**
 
 - 📫 How to reach me **shubhamaryan857@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/138Dx7qOEo616OYTrhbn4E6uJMTLiHZfj/view](https://drive.google.com/file/d/138Dx7qOEo616OYTrhbn4E6uJMTLiHZfj/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/138Dx7qOEo616OYTrhbn4E6uJMTLiHZfj/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
