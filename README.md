@@ -46,3 +46,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=allushubham&show_icons=true&locale=en" alt="allushubham" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=allushubham&" alt="allushubham" /></p>
+
+<br/>
+<br/>
+
+<a href="https://github.com/chandan0531/github-readme-activity-graph"><img alt="chandan0531's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=chandan0531&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
