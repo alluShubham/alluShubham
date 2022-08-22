@@ -41,11 +41,20 @@
    
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=allushubham&show_icons=true&locale=en&layout=compact" alt="allushubham" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=allushubham&show_icons=true&locale=en" alt="allushubham" /></p>
+## 📊 My Github Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=allushubham&" alt="allushubham" /></p>
+  <br/>
+   <a href="https://github.com/alluShubham/github-readme-stats"><img alt="alluShubham's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alluShubham&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/alluShubham/github-readme-stats"><img alt="alluShubham's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alluShubham&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+ 
+  <br/>
+
+<p align="center">
+    <a href="https://github.com/alluShubham/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="alluShubham's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=alluShubham&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
 <br/>
 <br/>
