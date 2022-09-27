@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
-<h3 align="center">A Passionate Java Backend Developer who writes clean and optimized code. Have experience in developing spring-boot applications. To be a brilliant performer in applying my skill sets, to achieve the short-term and long-term goals that have been put into a good industry.  I like to know the recent development in all fields and their development procedure.</h3>
+<h3 align="center">A Passionate Java Backend Developer with the ability to write clean, reusable, and optimized code. I have experience and skill sets to achieve the short-term and long-term goals that have been put into a good industry. I like to know the recent development in all fields and their development procedure. I like to explore new locations whenever I get the time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allushubham&label=Profile%20views&color=0e75b6&style=flat" alt="allushubham" /> </p>
 
