@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
-<h3 align="center">A passionate backend developer from Masai.</h3>
+<h3 align="center">A Passionate Java Backend Developer who writes clean and optimize code. Have exprience of developing springboot application.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allushubham&label=Profile%20views&color=0e75b6&style=flat" alt="allushubham" /> </p>
 
@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Java backend, SBMS, Hibernet**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://allushubhamportfolio.netlify.app/)
+- ➥ Here is my Resume:  [Portfolio](https://allushubhamportfolio.netlify.app/)
 
 - 💬 Ask me about **JAVA, DBMS(mysql)**
 
 - 📫 How to reach me **shubhamaryan857@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/138Dx7qOEo616OYTrhbn4E6uJMTLiHZfj/view)
+- ➥ Here is my Portfolio : [Resume](https://drive.google.com/file/d/138Dx7qOEo616OYTrhbn4E6uJMTLiHZfj/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
