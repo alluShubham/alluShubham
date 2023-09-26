@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
-<h3 >A Passionate Java Backend Developer with the ability to write clean, reusable, and optimized code. I have experience and skill sets to achieve the short-term and long-term goals that have been put into a good industry. I like to know the recent development in all fields and their development procedure. I like to explore new locations whenever I get the time !</h3>
+<h3 >I have a clear, logical mind with a practical approach to problem-solving and a drive to see things through to completion. I have work experience in multiple project and clone project with team collaboration. I am eager to learn, I enjoy overcoming challenges, and I have a genuine interest in Software Development and making organisations successful.
+
+I'm a Full Stack Developer. Strong knowledge in developing enterprise-level web applications and RESTful APIs using MicroServices, with demonstrable production-scale experience. Collaborate and communicate within distributed project teams to get desired outcomes. I am eager to be challenged in order to grow and further improve my IT skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allushubham&label=Profile%20views&color=0e75b6&style=flat" alt="allushubham" /> </p>
 
