@@ -59,11 +59,7 @@ I'm a Full Stack Developer. Strong knowledge in developing enterprise-level web 
 </p>
 
 <br/>
-<br/>
 
-<a href="https://github.com/alluShubham/github-readme-activity-graph"><img alt="alluShubham's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=alluShubham&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
 <br/>
 
 Thanks for Visiting...
