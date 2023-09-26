@@ -11,13 +11,13 @@ I'm a Full Stack Developer. Strong knowledge in developing enterprise-level web 
 
 - 🌱 I’m currently learning **Java backend, SBMS, Hibernet**
 
-- ➥ Here is my Resume:  [Portfolio](https://allushubhamportfolio.netlify.app/)
+- ➥ Here is my Resume:  [Resume](https://drive.google.com/file/d/138Dx7qOEo616OYTrhbn4E6uJMTLiHZfj/view)
 
 - 💬 Ask me about **JAVA, DBMS(mysql)**
 
 - 📫 How to reach me **shubhamaryan857@gmail.com**
 
-- ➥ Here is my Portfolio : [Resume](https://drive.google.com/file/d/138Dx7qOEo616OYTrhbn4E6uJMTLiHZfj/view)
+- ➥ Here is my Portfolio :[Portfolio](https://allushubhamportfolio.netlify.app/) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
