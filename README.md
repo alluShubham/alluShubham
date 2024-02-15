@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
-<h3 >I have a clear, logical mind with a practical approach to problem-solving and a drive to see things through to completion. I have work experience in multiple project and clone project with team collaboration. I am eager to learn, I enjoy overcoming challenges, and I have a genuine interest in Software Development and making organisations successful.
-
-I'm a Full Stack Developer. Strong knowledge in developing enterprise-level web applications and RESTful APIs using MicroServices, with demonstrable production-scale experience. Collaborate and communicate within distributed project teams to get desired outcomes. I am eager to be challenged in order to grow and further improve my IT skills.</h3>
+<h3 >Possessing a clear, logical mindset coupled with a pragmatic problem-solving approach, along with a commitment to follow through on tasks. Experienced in various projects and team-based clone projects, with an enthusiasm for acquiring new knowledge and tackling challenges. Genuine interest in Software Development and contributing to organizational success. Functioning as a Full Stack Developer, equipped with robust expertise in building enterprise-grade web applications and RESTful APIs using MicroServices, with proven experience at production scale. Capable of effective collaboration and communication within dispersed project teams to achieve desired results. Motivated by challenges to enhance and expand IT skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allushubham&label=Profile%20views&color=0e75b6&style=flat" alt="allushubham" /> </p>
 
